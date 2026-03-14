@@ -1,0 +1,9 @@
+id: pentest-basics
+name: Pentest Basics
+description: Basic pentesting tools for Haaga-Helia lab sessions
+version: "1.0.0"
+tools:
+  - nmap
+  - ffuf
+dotfiles:
+  - .tmux.conf
